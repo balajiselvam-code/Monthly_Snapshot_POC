@@ -440,7 +440,7 @@ DimInvestmentID,Investment Regime,Asset Class,Sub Asset Class,SubAssetClassNew,A
 391,Global Equity,Private Equity,PE - Emerging Markets,PE - Emerging Markets,Private Equity,Private Equity,PE - Emerging Markets,1,5,15,0,0,0,0,Ashmore GSS IV,0,0,Ashmore,0,0
 368,Global Equity,Private Equity,PE - Credit,PE - Credit,Private Equity,Private Equity,PE - Credit,1,5,16,0,0,0,0,Canyon Distressed S1,0,0,Canyon Partners,0,0
 43,Global Equity,Private Equity,PE - Emerging Markets,PE - Emerging Markets,Private Equity,Private Equity,PE - Emerging Markets,1,5,15,0,0,0,0,Actis Africa EM III,0,0,Actis Capital,0,0
-8709,Global Equity,Private Equity,Private Equity,Private Equity,Private Equity,Private Equity,,1,5,,1,1,0,0,Total Private Equity,1,1,UTIMCO,0,0
+8709,Global Equity,PE,PE,PE,PE,PE,,1,5,,1,1,0,0,Total Private Equity,1,1,UTIMCO,0,0
 15804,Global Equity,Private Equity,Private Equity,Private Equity,Private Equity,Private Equity,,1,5,,0,1,0,0,Total Private Equity Ex Emerging Markets,0,1,UTIMCO,0,0
 42937,Global Equity,Private Equity,Private Equity,Private Equity,Private Equity,Private Equity,,1,5,,0,0,0,0,Lighthouse V,0,0,Lighthouse,0,0
 42757,Global Equity,Private Equity,Private Equity,Private Equity,Private Equity,Private Equity,,1,5,,0,0,0,0,Knightsbridge Completion 2005,0,0,Knightsbridge,0,0
