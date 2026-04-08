@@ -1,0 +1,2 @@
+DimPortfolioID,DynamoID,Name,LegalName,Status,Comments,FiscalYearEnd,InceptionDate,DateCreated,DateModified,Source,Created_Date,Updated_Date,Execution_ID,Created_By,Updated_By
+12,d7d48456-dd9f-4db8-a4c3-d81bccff4de6,GEF,General Endowment Fund,Active,,8/31/2017 12:00:00 AM,3/1/2001 12:00:00 AM,8/26/2017 3:27:16 PM,1/14/2026 3:06:14 PM,Dynamo,25-03-2026 23:00:02,25-03-2026 23:00:02,85e45f55-7636-4f08-ba27-d998f1f6e513,Sys_User,Sys_User
